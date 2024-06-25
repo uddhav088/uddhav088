@@ -3,6 +3,6 @@
     <title>Dark World</title>
   </head>
   <body>
-    HEllO WORLD
+    HELLO WORLD
   </body>
 </html>
