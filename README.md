@@ -1,14 +1,14 @@
 <html>
   <head>
     <title>Dark World</title>
-  </head>
+  
   <style>
     .container
     {
       background-color: red;
       margin: 30%;
       }
-    
+    </head>
   </style>
   <body>
     <div class="contianer">
